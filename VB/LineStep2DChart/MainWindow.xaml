@@ -1,4 +1,4 @@
-﻿<Window x:Class="LineStep2DChart.MainWindow"
+<Window x:Class="LineStep2DChart.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:dxc="http://schemas.devexpress.com/winfx/2008/xaml/charts"
