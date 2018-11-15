@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/LineStep2DChart/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/LineStep2DChart/MainWindow.xaml))
+<!-- default file list end -->
 # How to create a 2D Step Line chart
 
 
