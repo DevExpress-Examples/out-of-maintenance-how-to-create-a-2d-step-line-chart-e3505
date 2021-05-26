@@ -5,15 +5,11 @@
 <!-- default file list end -->
 # How to create a 2D Step Line chart
 
-
-<p>The following example demonstrates how to create a 2D Step Line chart.</p><br />
-
+The following example demonstrates how to create a [2D Step Line](https://docs.devexpress.com/WPF/9991/controls-and-libraries/charts-suite/chart-control/fundamentals/series-fundamentals/2d-series-types/point-line-and-bubble-series/step-line?p=netframework) chart.
 
 
-<h3>Description</h3>
+### Description
 
-<p>To do this, it is necessary to assign the <a href="http://documentation.devexpress.dev/#WPF/DevExpressXpfChartsChartControl_Diagramtopic"><u>ChartControl.Diagram</u></a> property to <a href="http://documentation.devexpress.dev/#WPF/clsDevExpressXpfChartsXYDiagram2Dtopic"><u>XYDiagram2D</u></a>, and then add a <strong>LineStepSeries2D</strong> object with points to the diagram&#39;s <a href="http://documentation.devexpress.com/#WPF/DevExpressXpfChartsDiagram_Seriestopic"><u>Series</u></a> collection. </p><p>Also, this example shows how to add a chart title. </p>
+To do this, it is necessary to assign the [ChartControl.Diagram](https://docs.devexpress.com/WPF/DevExpress.Xpf.Charts.ChartControl.Diagram?p=netframework) property to [XYDiagram2D](https://docs.devexpress.com/WPF/DevExpress.Xpf.Charts.XYDiagram2D?p=netframework), and then add a [LineStepSeries2D](https://docs.devexpress.com/WPF/DevExpress.Xpf.Charts.LineStepSeries2D?p=netframework) object with points to the diagram's [Series](https://docs.devexpress.com/WPF/DevExpress.Xpf.Charts.Diagram.Series?p=netframework) collection. 
 
-<br/>
-
-
+Also, this example shows how to add a [chart title](https://docs.devexpress.com/WPF/7844/controls-and-libraries/charts-suite/chart-control/chart-elements/chart-titles?p=netframework).
