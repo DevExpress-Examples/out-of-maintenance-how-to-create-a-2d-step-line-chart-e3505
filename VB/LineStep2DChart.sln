@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LineStep2DChart", "LineStep2DChart\LineStep2DChart.vbproj", "{931F4866-2C4C-4C88-AF6B-8B809574CF4F}"
 EndProject
 Global

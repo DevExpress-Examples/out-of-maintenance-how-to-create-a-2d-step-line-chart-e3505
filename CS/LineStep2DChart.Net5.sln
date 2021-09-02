@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineStep2DChart", "LineStep2DChart\LineStep2DChart.csproj", "{931F4866-2C4C-4C88-AF6B-8B809574CF4F}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineStep2DChart", "LineStep2DChart\LineStep2DChart.Net5.csproj", "{931F4866-2C4C-4C88-AF6B-8B809574CF4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
